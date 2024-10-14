@@ -16,7 +16,7 @@ export default function Counter() {
 
   return (
     <div className="mt-8 text-center">
-      <h1 className="text-3xl font-bold">Counter</h1>
+      <h1 className="text-3xl font-bold">HYK's Counter</h1>
       {loadingCount ? (
         <h1>loading...</h1>
       ) : (
